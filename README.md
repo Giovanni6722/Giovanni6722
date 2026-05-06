@@ -1,5 +1,3 @@
-<div align="center">
-
 <pre>
 > LOADING ENTITY FILE: Giovanni6722.exe
 > STATUS: ██████████░░░░░░░░░░ 47%
@@ -13,7 +11,7 @@
 
 <div align="center">
 
-# ~~UNKNOWN~~ Giovanni
+# ~~UNKNOWN~~ Gio
 
 *`[ CS student. Builder. Something in between. ]`*
 
@@ -24,13 +22,18 @@
 ## `> ENTITY_PROFILE`
 
 <sub>⚠ some fields corrupted — displaying best match</sub>
+
+<br>
+
+```
 CLASS       : Systems Thinker / Game Dev (in progress)
 ORIGIN      : New York
 STATUS      : Actively building something that shouldn't exist yet
 LAST SEEN   : Somewhere between a physics engine and a story worth telling
 LANGUAGE(S) : Java, C, C#, Python, PHP, HTML, React
-TOOLS       : GDB, VIM, EMON, Unity, Git — and whatever I need next
+TOOLS       : GDB, VIM, EMON, Unity, Git -- and whatever I need next
 WEAKNESS    : Starting new projects at 2am
+```
 
 ---
 
@@ -46,24 +49,28 @@ WEAKNESS    : Starting new projects at 2am
 ---
 
 ## `> SKILL_TREE`
-                     [ CORE ]
-                        │
-       ┌────────────────┼────────────────┐
-       ▼                ▼                ▼
-     [JAVA]           [C/C++]         [PYTHON]
-       │                │
- ┌─────┴──────┐    ┌────┴─────┐
- ▼            ▼    ▼          ▼
-[JavaFX]      [C#] [GDB]      [EMON]
-│            │
-▼            ▼
-[Physics      [Unity]
-Engine]
 
-── WEB BRANCH ───────────────────────────────────
-[HTML] ──▶ [PHP] ──▶ [React]
-── DEVTOOLS ─────────────────────────────────────
-[Git] ──▶ [VIM] ──▶ [Maven]
+```
+                    [ CORE ]
+                        |
+          +-------------+-------------+
+          |             |             |
+       [JAVA]        [C/C++]      [PYTHON]
+          |             |
+     +----+----+    +---+----+
+     |         |    |        |
+  [JavaFX]   [C#] [GDB]   [EMON]
+     |         |
+     v         v
+ [Physics]  [Unity]
+  Engine
+
+  -- WEB BRANCH ----------------------------------
+  [HTML] --> [PHP] --> [React]
+
+  -- DEVTOOLS ------------------------------------
+  [Git] --> [VIM] --> [Maven]
+```
 
 **Unlocked Icons**
 
@@ -87,7 +94,7 @@ Engine]
 
 I build things. Not because I know exactly how they'll turn out — but because the gap between *idea* and *real* is the only place I actually feel awake.
 
-Right now I'm somewhere in the middle of a physics engine, OS internals I dig into for fun, and a platformer called *Hooked* — about a ferret with a grappling gun trying to find something worth reaching for.
+Right now I'm somewhere in the middle of a physics engine, OS internals I dig into for fun, and a cozy metroidvannia called *Hooked*, about a ferret with a grappling gun trying to find something worth reaching for.
 
 I don't have a portfolio yet. Just a lot of half-finished things that taught me everything.
 
@@ -99,7 +106,7 @@ I don't have a portfolio yet. Just a lot of half-finished things that taught me 
 
 ## `> CONNECT`
 
-[![Email](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giodudedev@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giodude.dev@gmail.com)
 
 ---
 
