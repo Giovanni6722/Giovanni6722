@@ -92,7 +92,7 @@ WEAKNESS    : Starting new projects at 2am
 
 <br>
 
-I build things. Not because I know exactly how they'll turn out — but because the gap between *idea* and *real* is the only place I actually feel awake.
+I build things. Not because I know exactly how they'll turn out, but because the gap between *idea* and *real* is the only place I actually feel awake.
 
 Right now I'm somewhere in the middle of a physics engine, OS internals I dig into for fun, and a cozy metroidvannia called *Hooked*, about a ferret with a grappling gun trying to find something worth reaching for.
 
